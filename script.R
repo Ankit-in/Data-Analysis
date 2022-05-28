@@ -1,1 +1,0 @@
-data <- read.csv("D:/Covid_R/COVID19_line_list_data.csv")
